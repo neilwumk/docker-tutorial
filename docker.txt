@@ -1,0 +1,6 @@
+Install software under ubuntu
+(1)Update repository
+   apt-get Update
+(2)Install software
+   apt-get -y install git
+ 
